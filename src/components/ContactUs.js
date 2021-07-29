@@ -10,7 +10,7 @@ export default class ContactUs extends Component {
         <div className="row">
           <aside className="eigth columns footer-widgets">
             <div className="widget">
-              <h4>Email :sana.chowdhury86@gmail.com</h4>
+              <h4>Thanks for coming!</h4>
             </div>
           </aside>
         </div>
