@@ -1,4 +1,5 @@
-![Programming-Coding-Program-With-Encryption-Symbols-scaled-1](https://user-images.githubusercontent.com/77689307/127421572-82dd2eb2-5f32-4bc7-87f9-f31da1dcb846.jpeg)
+![Screen Shot 2021-07-28 at 10 23 01 PM](https://user-images.githubusercontent.com/77689307/127421667-930587d0-4a51-436f-9c01-8f8ebed692b5.png)
+
 ![Screen Shot 2021-07-28 at 10 22 29 PM](https://user-images.githubusercontent.com/77689307/127421601-ae380946-481e-4d65-b328-bf71e274b099.png)
 A simple Portfolio using React
 
