@@ -7,5 +7,3 @@ for this assignment i updated my portfolio using react components and functional
 i used JQuery
 CSS
 React
-
-## Preview
